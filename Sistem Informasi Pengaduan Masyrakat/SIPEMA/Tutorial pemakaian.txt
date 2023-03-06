@@ -1,0 +1,9 @@
+Pastikan sudah terinstall php 8
+Nyalakan Mysql
+
+Buka CMD dan jalankan perintah
+
+1 php artisan migrate:fresh --seed
+2 php artisan optimize
+3 php artisan serve
+
